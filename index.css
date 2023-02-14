@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.g1 {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  position: absolute;
+  top: 40%;
+  left: 43%;
+  border-radius: 100px;
+}
+.g2 {
+    position: absolute;
+    top: 35%;
+    left: 31%;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 0 100% 0 100%;
+    border: 2px solid white;
+    transform: rotate(-26deg);
+    box-shadow: 10px 10px 80px 10px white;
+  }
+  .g3 {
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 0 100% 0 100%;
+    border: 2px solid white;
+    transform: rotate(8deg);
+    box-shadow: 10px 10px 80px 10px white;
+  }
+  .g4 {
+    position: absolute;
+    top: 14%;
+    left: 43%;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 0 100% 0 100%;
+    border: 2px solid white;
+    transform: rotate(43deg);
+    box-shadow: 10px 10px 80px 10px white;
+  }
+  .g5 {
+    position: absolute;
+    top: 20%;
+    left: 51%;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 0 100% 0 100%;
+    border: 2px solid white;
+    transform: rotate(85deg);
+    box-shadow: 10px 10px 80px 10px white;
+  }
+  .g6{
+    position: absolute;
+    top: 33%;
+    right: 35%;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 0 100% 0 100%;
+    border: 2px solid white;
+    transform: rotate(-65deg);
+    box-shadow: 10px 10px 80px 10px white;
+  }
+  
+  .g7 {
+    position: absolute;
+    top: 50%;
+    right: 36%;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 0 100% 0 100%;
+    border: 2px solid white;
+    transform: rotate(-20deg);
+    box-shadow: 10px 10px 80px 10px white;
+  }
+  .g8 {
+    position: absolute;
+    right: 41%;
+    bottom: 18%;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 0 100% 0 100%;
+    border: 2px solid white;
+    transform: rotate(12deg);
+    box-shadow: 10px 10px 80px 10px white;
+  }
+  .g9 {
+    position: absolute;
+    left: 40%;
+    bottom: 15%;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 0 100% 0 100%;
+    border: 2px solid white;
+    transform: rotate(60deg);
+    box-shadow: 10px 10px 80px 10px white;
+  }
+  .g10 {
+    position: absolute;
+    left: 33%;
+    bottom: 25%;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 0 100% 0 100%;
+    border: 2px solid white;
+    transform: rotate(95deg);
+    box-shadow: 10px 10px 80px 10px white;
+  }
+                  
